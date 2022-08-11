@@ -20,6 +20,7 @@ body {
 
 main {
   background: url(images/Mobile.png);
+  backgroun: black;
   width: 375px;
   height: 812px;
 
